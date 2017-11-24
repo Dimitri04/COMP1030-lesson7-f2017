@@ -35,6 +35,7 @@
             this.txtY = new System.Windows.Forms.TextBox();
             this.btnAdd = new System.Windows.Forms.Button();
             this.lblMsg2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnLoop1
@@ -99,11 +100,21 @@
             this.lblMsg2.TabIndex = 7;
             this.lblMsg2.Text = "Click to add Numbers";
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(754, 258);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(251, 25);
+            this.label1.TabIndex = 8;
+            this.label1.Text = "From Change for Git Hub";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1251, 630);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.lblMsg2);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.txtY);
@@ -127,6 +138,7 @@
         private System.Windows.Forms.TextBox txtY;
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Label lblMsg2;
+        private System.Windows.Forms.Label label1;
     }
 }
 
