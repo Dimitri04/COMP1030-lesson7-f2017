@@ -1,0 +1,10 @@
+C:\Users\Dimitri\Documents\Visual Studio 2017\wk7(After StrikeClass1)\wk7(After StrikeClass1)\bin\Debug\wk7(After StrikeClass1).exe.config
+C:\Users\Dimitri\Documents\Visual Studio 2017\wk7(After StrikeClass1)\wk7(After StrikeClass1)\bin\Debug\wk7(After StrikeClass1).exe
+C:\Users\Dimitri\Documents\Visual Studio 2017\wk7(After StrikeClass1)\wk7(After StrikeClass1)\bin\Debug\wk7(After StrikeClass1).pdb
+C:\Users\Dimitri\Documents\Visual Studio 2017\wk7(After StrikeClass1)\wk7(After StrikeClass1)\obj\Debug\wk7(After StrikeClass1).csprojResolveAssemblyReference.cache
+C:\Users\Dimitri\Documents\Visual Studio 2017\wk7(After StrikeClass1)\wk7(After StrikeClass1)\obj\Debug\wk7_After_StrikeClass1_.Form1.resources
+C:\Users\Dimitri\Documents\Visual Studio 2017\wk7(After StrikeClass1)\wk7(After StrikeClass1)\obj\Debug\wk7_After_StrikeClass1_.Properties.Resources.resources
+C:\Users\Dimitri\Documents\Visual Studio 2017\wk7(After StrikeClass1)\wk7(After StrikeClass1)\obj\Debug\wk7(After StrikeClass1).csproj.GenerateResource.Cache
+C:\Users\Dimitri\Documents\Visual Studio 2017\wk7(After StrikeClass1)\wk7(After StrikeClass1)\obj\Debug\wk7(After StrikeClass1).csproj.CoreCompileInputs.cache
+C:\Users\Dimitri\Documents\Visual Studio 2017\wk7(After StrikeClass1)\wk7(After StrikeClass1)\obj\Debug\wk7(After StrikeClass1).exe
+C:\Users\Dimitri\Documents\Visual Studio 2017\wk7(After StrikeClass1)\wk7(After StrikeClass1)\obj\Debug\wk7(After StrikeClass1).pdb
